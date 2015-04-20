@@ -1,5 +1,7 @@
-# fluent-conf
+# Fluent Conference 2015
+This is a compilation of resources from Fluent Conference 2015 in San Francisco. 
 
+## Talks
 ##### Responsive Typography: The Foundation of Great Performance and Design
 * By Jason Pamental (Fresh Tilled Soil)
 * [Github](https://github.com/jeffersonlam/rwt-fluent)
