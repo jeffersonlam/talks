@@ -8,3 +8,7 @@
 ##### Design Beautiful REST + JSON APIs
 * By Les Hazlewood (Stormpath)
 * [Slides](http://www.slideshare.net/stormpath/rest-jsonapis)
+
+##### Gitting More Out of Git
+* By Jordan Kasper (Strongloop)
+* [Slides](http://jordankasper.com/git/#/)
