@@ -49,7 +49,7 @@ Error handling with actions queue
 Resolving dependencies in the Controller-view  
 
 ##### Anti-patterns
-Application state/logic in React components
-Getters in render()
-Public setters in stores & the setter mindset trap
-Props in getInitialState()
+Application state/logic in React components  
+Getters in render()  
+Public setters in stores & the setter mindset trap  
+Props in getInitialState()  
