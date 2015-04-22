@@ -1,11 +1,10 @@
 # Welcoming the Web
-Estelle Weyl (Standardista.com)
-@estellevw
-9:05am–9:20am Wednesday, 04/22/2015
-Keynote
+Estelle Weyl (Standardista.com)  
+@estellevw  
+9:05am–9:20am Wednesday, 04/22/2015  
+Keynote  
 
----
-
+## Notes
 Recruiters.  
 > "Seeking to hire "like-minded" people ends up being a euphamism for hiring like-skinned, like-gendered, and like-aged people."  
 ->Male, white or asian, milennial age.  
