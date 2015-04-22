@@ -36,7 +36,7 @@ Make sure that username/pword and auth cookies are secured
 * [ ] Look into how to make your webapp more secure
 
 ## Personal Notes
-This talk was hard to follow. The material was presented in a very rigid way: topic, material, topic, material. There was no sense of humor or humanity anywhere, and there wasn't any passion or interest behind the subject matter. As a result, it was hard to follow, and I don't think the audience was very engaged. The content was there, and these are things to consider when building an app, but it wasn't presented in a digestible way.  
+This talk was hard to follow. The material was presented in a very rigid way: topic, material, topic, material. There was no sense of humor or humanity anywhere, and there wasn't any passion or interest behind the subject matter. As a result, I tuned out after about 15 minutes, and I'm sure most of the audience did the same. The content was there, and these are things to consider when building an app, but it wasn't presented in a digestible way.  
 * Don't present like you're a robot.
 * Try to put some humor into it
 * Don't take yourself so seriously
