@@ -53,3 +53,6 @@ Application state/logic in React components
 Getters in render()  
 Public setters in stores & the setter mindset trap  
 Props in getInitialState()  
+
+## Action Items
+* [ ]

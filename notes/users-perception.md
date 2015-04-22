@@ -7,3 +7,6 @@ Paul Irish (Google Chrome)
 Response times required for user-perceived immediate feedback:  
 * Tap/click: 100ms
 * Drag: 16ms
+
+## Action Items
+* [ ]

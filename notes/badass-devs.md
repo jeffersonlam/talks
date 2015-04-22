@@ -68,3 +68,6 @@ We need high-quality, high-quantity examples
 This is what we don't do. We just see 2 or 3 examples, like in a textbook or something.  
 
 "Look at the people around you. They are not humanoids, or unicorns, they are... humans. And just visualize them bleeding out of cognitive resources."
+
+## Action Items
+* [ ]

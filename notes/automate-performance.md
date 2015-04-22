@@ -20,3 +20,6 @@ Pull up your chrome dev tools and look at the resources waterfall. That's one wa
 * [WebPageTest](http://www.webpagetest.org/)
 Set up your own WebPageTest server.  
 "They have set this up so that it's so stunningly easy." </sarcasm>  
+
+## Action Items
+* [ ]
