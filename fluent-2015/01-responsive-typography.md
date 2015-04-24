@@ -2,8 +2,8 @@
 Jason Pamental (Fresh Tilled Soil)
 [Github](https://github.com/jeffersonlam/rwt-fluent)
 
-
-#### life of <p>
+## Notes
+#### life of `<p>`
 -You can pull text snippets and retain their formatting by using paragraph tags as visual indicators.
 -text indent: 1em
 -last line without any orphans.
@@ -94,7 +94,7 @@ p{
     letter-spacing: 0.1px;
 }
 
-question: "what is the perfect <p>?"
+question: "what is the perfect `<p>`?"
 answer: "the right one for your project"
 
 -Seattle Times
@@ -103,3 +103,5 @@ answer: "the right one for your project"
     it works for them
 -The Shape of Design
     -streamlined reading experience without any interruptions, and just gentle nudges for each paragraph."
+
+## Action Items
