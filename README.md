@@ -1,26 +1,17 @@
 # Talks
 This is a compilation of resources and notes from talks given at conferences, meetups, and everything in between.
 
-### Contents
-| Title                      | Speaker         | Slides  | Notes |
-| -------------------------- | --------------- | ------- | ----- |
-| Responsive Typography      | Jason Pamental  | [Link](http://www.slideshare.net/stormpath/rest-jsonapis) | [Link](./fluent-2015/1-responsive-typography.md)|
-| Designing Beautiful APIs   | Les Hazlewood   | $12     |
-| Gitting More Out of Git    | Jordan Kasper   | $1      |
-
-### Fluent 2015
-* [Responsive Typography: The Foundation of Great Performance and Design](http://www.slideshare.net/stormpath/rest-jsonapis)
-  * Jason Pamental - Fresh Tilled Soil
-  * [Github](https://github.com/jeffersonlam/rwt-fluent)
-* Design Beautiful REST + JSON APIs
-  * Les Hazlewood - Stormpath
-  * [Slides]()
-
-* Gitting More Out of Git
-  * Jordan Kasper - Strongloop
-  * [Slides](http://jordankasper.com/git/#/)
-
-* Extreme Web Performance for Mobile Devices
-  * Maximiliano Firtman
-  * [Slides](http://www.slideshare.net/firt/extreme-web-performance-for-mobile-device-fluent-2015)
-  * [Resources](http://firtman.github.io/fluent/)
+#### Table of Contents
+| Event        | Date       | Title                      | Speaker               | Notes    |
+| ------------ | ---------- | -------------------------- | --------------------- | -------- |
+| Fluent 2015  | 2015/04/20 | Responsive Typography      | Jason Pamental        | [Link](./fluent-2015/01-responsive-typography.md) |
+|              |            | Designing Beautiful APIs   | Les Hazlewood         | [Link](./fluent-2015/02-design-beautiful-apis.md) |
+|              |            | Gitting More Out of Git    | Jordan Kasper         | [Link](./fluent-2015/03-gitting-git.md) |
+|              |            | Extreme Mobile Web Perf    | Maximiliano Firtman   | [Link](./fluent-2015/04-extreme-mobile-web-perf.md) |
+|              | 2015/04/21 |                            |                       | [Link](./fluent-2015/) |
+|              |            |                            |                       | [Link](./fluent-2015/) |
+|              |            |                            |                       | [Link](./fluent-2015/) |
+|              | 2015/04/22 |                            |                       | [Link](./fluent-2015/) |
+|              |            |                            |                       | [Link](./fluent-2015/) |
+|              |            |                            |                       | [Link](./fluent-2015/) |
+| ATX Sass     | 2015/04/23 |                            |                       | [Link](./atx-sass/) |
