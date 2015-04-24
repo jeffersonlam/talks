@@ -4,7 +4,7 @@ This is a compilation of resources and notes from talks given at conferences, me
 ### Contents
 | Title                      | Speaker         | Slides  | Notes |
 | -------------------------- | --------------- | ------- | ----- |
-| Responsive Typography      | Jason Pamental  | [Link](http://www.slideshare.net/stormpath/rest-jsonapis) | [Link](./fluent-2015/responsive-typography.md)|
+| Responsive Typography      | Jason Pamental  | [Link](http://www.slideshare.net/stormpath/rest-jsonapis) | [Link](./fluent-2015/1-responsive-typography.md)|
 | Designing Beautiful APIs   | Les Hazlewood   | $12     |
 | Gitting More Out of Git    | Jordan Kasper   | $1      |
 
