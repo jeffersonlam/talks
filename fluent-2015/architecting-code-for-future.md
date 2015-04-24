@@ -1,16 +1,19 @@
 # Designing for the Future: Architecting Code and Systems with Long-Term Growth and Development in Mind
-Brian Belhumeur (craigslist)
-@JSArtisan
-5:15pm–5:45pm Wednesday, 04/22/2015
-Slides: http://brianbelhumeur.github.io/Fluent2015-DesigningForTheFuture.pdf
+Brian Belhumeur (craigslist)  
+@JSArtisan  
+5:15pm–5:45pm Wednesday, 04/22/2015  
+Slides: http://brianbelhumeur.github.io/Fluent2015-DesigningForTheFuture.pdf  
 
 ## Notes
 > "I work at Craigslist as a Front-End Developer. Now I know what you're thinking... FED at Craigslist? What the hell do you do?"
+
 > "We need to meet the user's needs. That sounds obvious, but it's ..."
-> "Craig, stop crewing with the format! You idiots can't leave well enough alone?" - CL User
+
+> "Craig, stop screwing with the format! You idiots can't leave well enough alone?" - CL User
+
 > "Technical debt: Previous work that needs to be redone to continue being able to build on top of it."
 
-##### Program with the programmer in mind
+#### Program with the programmer in mind
 Write durable code (code that's readable and reusable into the future).
 * Comments should explain the purpose of your code.
     * One line generic comment: useless. Multi-line detailed comment: useful.
@@ -20,7 +23,7 @@ Write durable code (code that's readable and reusable into the future).
 * Red diffs
     * Red diffs (line deletions) can be a lot better than green diffs (line additions).
 
-##### Modularity is a MUST
+#### Modularity is a MUST
 * Adaptability
 * Optimized loading
 * Isomorphism
@@ -28,16 +31,16 @@ Write durable code (code that's readable and reusable into the future).
 
 Quasi-Modularity
 
-##### Computers are smart. Let machines do what they do best
+#### Computers are smart. Let machines do what they do best
 * Use a build system (task-runner)
     * Gulp, Grunt, Tree Js (?)
 * Use templates
     * Handlebars, EJS, Jade
 
-##### Test "wings". You need just the right size and shape to fly.
-if (probability of bug x cost of bug > ) { writeTest(); }
+#### Test "wings". You need just the right size and shape to fly.
+`if (probability of bug x cost of bug > ) { writeTest(); }`
 
-##### Growth and Scaling
+#### Growth and Scaling
 * Caching
 * Project growth curve and upgrade 12-18 months out
 * Think globally and massive
@@ -58,7 +61,7 @@ If all goes well...
     * You don't have to please everybody. Just be sure to keep happy the users you want to keep.
 * Build your tools!
 
-##### Improving user experience
+#### Improving user experience
 * Faster is **always** better.
     * read Browser Networking from O'Reilly
 * Performance has to be built into your development process. It's not a job for cops or janitors to go in and clean up after your work.

@@ -1,5 +1,5 @@
 # Fluent Conference 2015
-This is a compilation of resources from Fluent Conference 2015 in San Francisco. 
+This is a compilation of resources from Fluent Conference 2015 in San Francisco.  
 
 ## Talks
 ##### Responsive Typography: The Foundation of Great Performance and Design
