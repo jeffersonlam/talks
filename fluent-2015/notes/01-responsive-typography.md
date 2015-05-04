@@ -104,5 +104,7 @@ Examples:
     - "...streamlined reading experience without any interruptions, and just gentle nudges for each paragraph."
 
 ## Action Items
-- [ ] Think about the reading experience when designing websites. What's the right reading experience for your user? How does it compare to reading a book?  
+- [ ] Think about the reading experience when designing websites
+    - [ ] What's the right reading experience for your user?
+    - [ ] How does the reading experience compare to reading a book?
 - [ ] Utilize special CSS properties and selectors, like `first-line`, `first-letter`, `text-indent`
