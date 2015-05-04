@@ -1,6 +1,10 @@
 # Responsive Typography: The Foundation of Great Performance and Design
-Jason Pamental (Fresh Tilled Soil)
-[Github](https://github.com/jeffersonlam/rwt-fluent)
+[Jason Pamental (Fresh Tilled Soil)](http://www.freshtilledsoil.com/)  
+[Details](http://fluentconf.com/javascript-html-2015/public/schedule/detail/39224)  
+[Slides](http://www.slideshare.net/jpamental)  
+[Github](https://github.com/jeffersonlam/rwt-fluent)  
+
+A crash course on thinking about, and implementing, the reading experience of your design.  
 
 ## Notes
 #### life of `<p>`
@@ -101,3 +105,4 @@ Examples:
 
 ## Action Items
 - [ ] Think about the reading experience when designing websites. What's the right reading experience for your user? How does it compare to reading a book?  
+- [ ] Utilize special CSS properties and selectors, like `first-line`, `first-letter`, `text-indent`
