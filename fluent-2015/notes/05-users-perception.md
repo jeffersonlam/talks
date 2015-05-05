@@ -1,6 +1,5 @@
 # How Users Perceive the Speed of The Web
 [Paul Irish](http://www.paulirish.com/) (Google Chrome)  
-9:05am–9:25am Tuesday, 04/21/2015  
 [Slides](https://docs.google.com/presentation/d/1AwT2vVHzzlsIxEUS-z769awGa-hiHTwR0iWrkeX49Fk/edit?pli=1#slide=id.g6f0232e78_056)  
 [Video](https://www.youtube.com/watch?v=2ksXo2_Lfl0)  
 [Fluent details page](http://fluentconf.com/javascript-html-2015/public/schedule/detail/40733)  

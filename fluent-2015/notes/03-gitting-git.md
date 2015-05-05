@@ -71,8 +71,8 @@ git commit --amend
 
 
 #### "Atomic Commits"
-> "Commits should be a unit of functionality."
-> "You should be able to remove any commit and technically everything would be fine."
+> "Commits should be a unit of functionality."  
+> "You should be able to remove any commit and technically everything would be fine."  
 
 
 #### Undoing Changes

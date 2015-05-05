@@ -1,8 +1,11 @@
 # WebRTC: At The Frontier of a Communication Revolution
-Chris Allen (Infrared5)  
-12:00pm–12:30pm Tuesday, 04/21/2015  
+[Chris Allen (Infrared5)](http://infrared5.com/)  
+[Details](http://fluentconf.com/javascript-html-2015/public/schedule/detail/39368)  
+[Slides](http://cdn.oreillystatic.com/en/assets/1/event/125/WebRTC_%20At%20The%20Frontier%20of%20a%20Communication%20Revolution%20Presentation.pdf)  
 
----
+Learn about what WebRTC is, and what it can do.  
+
+## Notes
 
 ##### Why WebRTC?  
 You can do live video broadcasting  

@@ -1,14 +1,16 @@
 # ECMAScript Harmony: Rise of the Compilers
-Brendan Eich (Creator of JavaScript)
-9:50am–10:10am Tuesday, 04/21/2015
+[Brendan Eich (JavaScript)](http://twitter.com/BrendanEich)  
+[Details](http://fluentconf.com/javascript-html-2015/public/schedule/detail/41006)  
+[Slides](http://cdn.oreillystatic.com/en/assets/1/event/125/ECMAScript%20Harmony_%20Rise%20of%20the%20Compilers%20Presentation.pdf)  
 
----
+## Notes
+Solar System presentation: http://shaunlebron.github.io/solar-system-of-js/#1  
 
-Closurescript  
-Babeljs  
-Linters  
-"I get really attached to my sentry chickens, but then they overheat and explode."  
-"You have to ask, why are the zombies carrying so much cash around?" - on Dead Trigger 2  
+Modern tools for developing in JS:  
+- Closurescript  
+- Babeljs  
+- Linters  
 
-## Action Items
-* [ ]
+## Action Items/Takeaways
+* The man behind JS is still alive!
+* [ ] Embrace the ever-changing language that is JS

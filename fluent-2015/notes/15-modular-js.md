@@ -1,5 +1,9 @@
+# Modular JavaScript -- Transforming an Existing Codebase
+[Semmy Purewal (Netflix)](http://semmy.me/)  
+[Details](http://fluentconf.com/javascript-html-2015/public/schedule/detail/39310)  
+[Slides](http://cdn.oreillystatic.com/en/assets/1/event/125/Modular%20JavaScript%20--%20Transforming%20an%20Existing%20Codebase%20Presentation.pdf)  
 
----
+## Notes
 
 "How can we create a consistent, updateable user experience across all devices?"  
 UI <-> Platform  
@@ -25,4 +29,4 @@ modules, commonJS Style
 Modular Programming is a subset of procedural programming.
 
 ## Action Items
-* [ ]
+* [ ] 

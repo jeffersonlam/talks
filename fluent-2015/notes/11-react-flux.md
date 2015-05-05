@@ -1,13 +1,15 @@
 # React and Flux: Two Great Tastes that Taste Great Together
-Bill Fisher (Facebook)  
-11:15am–11:45am Tuesday, 04/21/2015  
-Presentation: https://speakerdeck.com/fisherwebdev/fluent-react-flux
+[Bill Fisher (Facebook)](http://twitter.com/fisherwebdev)  
+[Details](http://fluentconf.com/javascript-html-2015/public/schedule/detail/39523)  
+[Slides](https://speakerdeck.com/fisherwebdev/fluent-react-flux)  
 
----
+Develop a mental model of how React and Flux work together, and why they work so well together.  
+
+## Notes
 
 "Mental models matter a lot. If you can't draw a diagram of how your app works in about 5 seconds..."
 
-## Flux
+#### Flux
 Structure:  
 [Actions] - [Dispatcher] - [Store] - [View]
 
@@ -29,7 +31,7 @@ Emits an event when state has changed
 ##### Views
 Views & "Controller" views  
 
-### React
+##### React
 
 ##### React & the DOM
 On the web, we use the virtual DOM. It basically keeps track of the state of the DOM.  
@@ -55,4 +57,4 @@ Public setters in stores & the setter mindset trap
 Props in getInitialState()  
 
 ## Action Items
-* [ ]
+* [ ] Look into React + Flux

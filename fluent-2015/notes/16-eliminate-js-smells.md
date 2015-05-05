@@ -1,10 +1,11 @@
 # Eliminate JavaScript Code Smells
-Elijah Manor (Ramsey Solutions)
-4:30pm–5:00pm Tuesday, 04/21/2015
-@elijahmanor
-Slides: bit.ly/js-smells
----
+[Elijah Manor (Ramsey Solutions)](http://elijahmanor.com/)  
+[Details](http://fluentconf.com/javascript-html-2015/public/schedule/detail/39473)  
+[Slides](http://elijahmanor.github.io/talks/js-smells/#/)  
 
+Learn about web standards for developing JS, and how to avoid writing code that smells.  
+
+## Notes
 Agenda
 * Easy to lint, common rules
 * Easy to lint, fresh rules
@@ -60,4 +61,4 @@ Alternative: Tweet-sized contatentation
 There are certain ways to write code in all these frameworks!
 
 ## Action Items
-* [ ]
+* [ ] Utilize a linter (preferably ESLint)
